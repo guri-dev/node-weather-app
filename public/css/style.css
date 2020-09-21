@@ -1,0 +1,28 @@
+body {
+    color: #333;
+    font-family: 'Times New Roman', Times, serif;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 0;
+    padding-left: 10%;
+}
+
+header h1{ 
+    color: #333;
+    text-align: left;
+    font-family: sans-serif;
+    padding: 20px;
+}
+
+header ul{ list-style: none; display: inline;}
+header ul li{ list-style: none; display: inline; margin: 5px;}
+header ul li a{ color: rgb(59, 51, 51); text-decoration: none;}
+header ul li a:hover{ text-decoration: underline;}
+.container {min-height: 500px;}
+footer { 
+    background-color: black; color: #fff;
+    text-align: center;
+}
+h1 { color: brown;}
+input { border: solid 1px #ccc; padding: 8px;}
+button {cursor: pointer; border: solid 1px #888; color: #fff; padding: 8px; background-color: #333;}
